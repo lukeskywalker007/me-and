@@ -1,0 +1,23 @@
+.white
+{
+    width:80% ;
+    font-size: 22px;
+}
+body{
+    background-color: teal;
+    color: ghostwhite;
+}
+.bold
+{
+    color:black;
+}
+#black
+{
+    border: 2px dashed red;
+    width: 350px;
+    height: 300px;
+}
+#object,#accuracy
+{
+color: yellow;
+}
